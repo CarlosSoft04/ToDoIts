@@ -19,6 +19,9 @@ Certifique-se de ter as seguintes ferramentas instaladas:
 ## Instalação 🚀
 Caso queira rodar o projeto na sua máquina e pegar o modelo, segue o passo a passo:
 
+## Instalação 🚀
+Caso queira rodar o projeto na sua máquina e pegar o modelo, segue o passo a passo:
+
 1. Clone o repositório:
    ```bash
    git clone https://github.com/seuusuario/nomedoprojeto.git
